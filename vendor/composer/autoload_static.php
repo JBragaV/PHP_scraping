@@ -22,6 +22,7 @@ class ComposerStaticInit326858e4e5eff5e522fe5b53a6137e3a
             'Symfony\\Contracts\\HttpClient\\' => 29,
             'Symfony\\Component\\HttpClient\\' => 29,
             'Symfony\\Component\\DomCrawler\\' => 29,
+            'Symfony\\Component\\CssSelector\\' => 30,
             'Symfony\\Component\\BrowserKit\\' => 29,
         ),
         'P' => 
@@ -59,6 +60,10 @@ class ComposerStaticInit326858e4e5eff5e522fe5b53a6137e3a
         'Symfony\\Component\\DomCrawler\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/dom-crawler',
+        ),
+        'Symfony\\Component\\CssSelector\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/css-selector',
         ),
         'Symfony\\Component\\BrowserKit\\' => 
         array (
